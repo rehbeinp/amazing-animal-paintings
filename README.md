@@ -1,4 +1,6 @@
 # AmazingAnimalPaintings
+Amazing Animal Paintings 🖼️🐾 
+* Sistema de vendas de pinturas de animais desenvolvido com Angular para fins de aprendizado. Utiliza a biblioteca de estilos do Angular Material para uma UI responsiva e o Mockoon para simulação de API. Conta com duas páginas: uma para exibição, pesquisa e filtragem de pinturas, e outra para gerenciamento do carrinho, permitindo adicionar, remover e finalizar compras. Possui ainda uma aba de navegação para alternar facilmente entre os produtos e o carrinho.
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.7.
 
